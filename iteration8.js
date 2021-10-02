@@ -27,4 +27,4 @@ function repeatCounter(array, word) {
     console.log(`El término que has introducido se repite ${counter} veces en el array introducido`)
   }
 
-repeatCounter(counterWords, 'code')
+repeatCounter(counterWords, 'code');
