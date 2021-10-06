@@ -22,5 +22,6 @@ function average(a) {
     console.log(sum / typesOfNumber.length)
     console.log(sum)
     console.log(lengths / typesOfString.length)
+    console.log(lengths)
 }
 average(mixedElements)
