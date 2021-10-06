@@ -4,9 +4,9 @@
 
 function sum(numberOne , numberTwo) {
     if (numberOne > numberTwo) {
-        console.log('El primer número es más grande que el segundo')
+        console.log(`El primer número ${numberOne} es más grande que el segundo`)
     } else {
-        console.log('El segundo número es más grande que el primero')
+        console.log(`El segundo número ${numberTwo} es más grande que el primero`)
     }
   }
 
